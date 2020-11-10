@@ -179,7 +179,6 @@
             cardContainer.setAttribute("class", cardContainerAttr);
         }
     }
-
     function selectRoasts() {
         for (let i = 0; i < cards.length; i++) {
             if (selectRoast.value.toLowerCase() !== "all roasts") {
